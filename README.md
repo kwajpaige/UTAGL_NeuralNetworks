@@ -1,6 +1,8 @@
 # UTAGL_NeuralNetworks
 Deep learning has gained a lot of attention in recent years with the increase in the amount of data being generated across businesses. Deep learning algorithms have proven to work better with large data as compared to traditional machine learning. The rise in data and computing power has driven tremendous developments in the machine learning space, and the need to access and process large data is turning out to be increasingly significant with regards to solving real-life/business problems. Currently, deep neural networks can learn the complex relations among the data and provide us with meaningful insights. The purpose of this project is to explore the exciting world of deep learning.
 
+Link to Jupyter Notebook: https://github.com/kwajpaige/UTAGL_NeuralNetworks/blob/main/BankChurnPredictionProject/PaigeSingleton_NeuralNetworks_BankChurnPrediction.ipynb
+
 ## Background
 Businesses like banks that provide service have to worry about the problem of 'Churn' i.e. customers leaving and joining another service provider. It is important to understand which aspects of the service influence a customer's decision in this regard. Management can concentrate efforts on the improvement of service, keeping in mind these priorities.
 
